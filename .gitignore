@@ -1,0 +1,11 @@
+LearnROS2.code-workspace
+# Ignore the workspace file
+*.code-workspace
+# Ignore the build directory
+build/
+# Ignore the install directory
+install/
+# Ignore the log directory
+log/
+# Ignore the .vscode directory
+.vscode/
